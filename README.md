@@ -13,7 +13,7 @@ The above solution architecture for breaking down a monolithic application into 
 
 This architecture allows for greater scalability and flexibility in the development and deployment of our application.
 
-### Why Lambda
+#### Why Lambda
 
 ![Lambda for microservices arch](why-Lambda.png)
 
