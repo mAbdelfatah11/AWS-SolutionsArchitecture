@@ -15,7 +15,7 @@ This architecture allows for greater scalability and flexibility in the developm
 
 ### Why Lambda
 
-![Lambda for microservices arch](why_Lambda.png)
+![Lambda for microservices arch](why-Lambda.png)
 
 To be honest, __there is no ideal solution__, it always depends, there are also use cases where containerization with AWS ECS or Fargate may be a better fit, such as when you need to run a specific version of a language or runtime, or when you need more fine-grained control over the resources allocated to your containers.
 
